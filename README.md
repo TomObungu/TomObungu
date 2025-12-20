@@ -5,7 +5,7 @@
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomObungu&layout=compact&theme=radical"
-    width="420"
+    width="400"
   />
 </p>
 
