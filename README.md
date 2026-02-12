@@ -1,3 +1,4 @@
+<!--- 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=TomObungu&show_icons=true&count_private=true&show=prs,issues,stars&theme=radical&hide_title=false&hide_rank=false"
@@ -8,6 +9,7 @@
     width="320"
   />
 </p>
+-->
 
 <p align="center">
   <img
